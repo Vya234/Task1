@@ -1,0 +1,13 @@
+.collapsible-section h3 {
+    cursor: pointer;
+    color: #007bff;
+  }
+  
+  .collapsible-section .content {
+    display: none;
+  }
+  
+  .collapsible-section .content.open {
+    display: block;
+  }
+  

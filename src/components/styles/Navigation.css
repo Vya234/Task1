@@ -1,0 +1,19 @@
+.course-nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .course-nav li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .course-nav a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .course-nav a:hover {
+    text-decoration: underline;
+  }
+  
